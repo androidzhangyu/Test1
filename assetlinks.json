@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.android.carden.instantapp",
+    "sha256_cert_fingerprints":
+    ["C3:E2:C8:BC:E3:78:F6:F7:D7:97:75:09:6E:2D:0F:DD:C2:FD:AD:F4:9B:0B:34:47:F0:BE:B9:8B:14:97:F5:96"]
+  }
+}]
